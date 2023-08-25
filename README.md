@@ -1,4 +1,4 @@
-Hi there im `Saman Olia`
+### Hi there im `Saman Olia`
 
 I'm a self-taught, highly motivated Frontend Developer
 
